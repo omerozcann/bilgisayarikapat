@@ -1,0 +1,6 @@
+c:\users\omer\documents\visual studio 2015\Projects\bilgisayarı kapat\bilgisayarı kapat\bin\Debug\bilgisayarı kapat.exe.config
+c:\users\omer\documents\visual studio 2015\Projects\bilgisayarı kapat\bilgisayarı kapat\bin\Debug\bilgisayarı kapat.exe
+c:\users\omer\documents\visual studio 2015\Projects\bilgisayarı kapat\bilgisayarı kapat\bin\Debug\bilgisayarı kapat.pdb
+c:\users\omer\documents\visual studio 2015\Projects\bilgisayarı kapat\bilgisayarı kapat\obj\Debug\bilgisayarı kapat.csprojResolveAssemblyReference.cache
+c:\users\omer\documents\visual studio 2015\Projects\bilgisayarı kapat\bilgisayarı kapat\obj\Debug\bilgisayarı kapat.exe
+c:\users\omer\documents\visual studio 2015\Projects\bilgisayarı kapat\bilgisayarı kapat\obj\Debug\bilgisayarı kapat.pdb
